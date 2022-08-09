@@ -3,9 +3,10 @@ As per homework. We were told to shorten the code with different tags instead of
 
 The link to the deployed website 
 [Website](https://ianad389.github.io/Challenge-1-Final/)
-![Screenshot](./assets/images/image-of-website.png)
+![Image-of-website](https://user-images.githubusercontent.com/108597043/183540539-26f11261-7ef4-446c-bf3e-8003a73c8d1f.png)
 
 ## User Story
+
 
 ```
 AS A marketing agency
